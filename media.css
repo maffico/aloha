@@ -1,0 +1,149 @@
+@media (max-width: 1440px) {
+    header img{
+        width: 98%;
+    }       
+}
+@media (max-width: 1290px) {
+    .block, .block.second{
+        gap: 30px;
+    }
+    .myWorks{
+        padding: 84px 15px 0;
+    }
+}
+@media (max-width: 1044px) {
+    footer .container{
+        flex-wrap: wrap-reverse;
+        gap: 30px;
+    }
+    div.copyright{
+        margin-right: 0;
+        
+    }
+}
+@media (max-width: 1000px) {
+    .text{
+        font-size: 30px;
+        line-height: 38px;
+    }
+    .myWorks-img{
+        width: 50%;
+    }
+    
+}
+@media (max-width: 950px) {
+    .heading{
+        font-size: 60px;
+        line-height: 70px;
+    }
+    div.copyright{
+        margin-right: 200px;
+    }
+}
+@media (max-width: 750px) {
+    .heading{
+        font-size: 50px;
+        line-height: 60px;
+        margin-bottom: 44px;
+    }
+    h1.heading{
+        margin-bottom: 50px;
+    }
+    .button{
+        padding: 8px 13px;
+        font-size: 15px;
+        line-height: 25px;
+    }
+    div.copyright{
+        margin-right: 100px;
+    }
+}
+@media (max-width: 705px) {
+    .text{
+        font-size: 25px;
+        line-height: 35px;
+        gap: 30px;
+    }
+    .myWorks-img{
+        margin: 30px 0 0;
+    }
+    .myWorks{
+        padding: 40px 15px 0;
+    }
+}
+@media (max-width: 635px) {
+    .heading{
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 20px;
+    }
+@media (max-width: 590px) {
+    .text{
+        font-size: 20px;
+        line-height: 30px;
+    } 
+    .quote{
+        margin-top: 30px;   
+    }
+    .contactMe{
+        padding: 42px 15px 30px;
+    }
+    div.copyright{
+        gap: 40px;
+    }
+}
+}
+@media (max-width: 520px) {
+    .text{
+        gap: 20px;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .heading{
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .button{
+        padding: 5px 11px;
+        font-size: 12px;
+        line-height: 23px;
+    }
+    .myWorks-img{
+        margin: 20px 0;
+    }
+    div.copyright{
+        margin-right: 0;
+    }
+}
+@media (max-width: 485px) {
+    nav .container{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    nav ul{
+        margin-top: 30px;
+    }
+    .myWorks{
+        padding: 20px 15px 0;
+    }
+    h1.heading{
+        margin-top: 62px;
+    }
+}
+@media (max-width: 420px) {
+    footer .container{
+        gap: 30px;
+    }
+}
+@media (max-width: 405px) {
+    .link{
+        font-size: 16px;
+    }
+    .heading{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .quote{
+        padding: 42px 30px 50px;
+    }
+}
